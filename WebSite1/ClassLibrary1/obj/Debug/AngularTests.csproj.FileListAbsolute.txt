@@ -1,0 +1,5 @@
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\ClassLibrary1\obj\Debug\AngularTests.csprojResolveAssemblyReference.cache
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

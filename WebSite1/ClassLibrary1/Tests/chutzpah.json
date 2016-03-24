@@ -1,0 +1,17 @@
+﻿{
+    "Framework": "jasmine",
+    "RootReferencePathMode": "SettingsFileDirectory",
+    "TestHarnessDirectory": "../../AngularExample",
+    "TestHarnessLocationMode": "Custom",
+    "References": [
+
+        { "path": "../../AngularExample/Scripts/angular.js" },
+         { "path": "../../AngularExample/Scripts/angular-mocks.js"},        
+        { "path": "../../AngularExample/Controller/app.js" }
+    ],
+    "Tests": [
+   { "Path": "Specs","include": "*.js" }
+ ]
+
+}
+

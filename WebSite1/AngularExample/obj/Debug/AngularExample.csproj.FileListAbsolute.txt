@@ -1,0 +1,6 @@
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\AngularExample\bin\AngularExample.dll.config
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\AngularExample\bin\AngularExample.dll
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\AngularExample\bin\AngularExample.pdb
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\AngularExample\obj\Debug\AngularExample.csprojResolveAssemblyReference.cache
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\AngularExample\obj\Debug\AngularExample.dll
+C:\Users\nkanani\Documents\Visual Studio 2013\Projects\WebSite1\AngularExample\obj\Debug\AngularExample.pdb
